@@ -1,6 +1,6 @@
 # NEW LIST 2022 - 2024: Machine-Learning / Deep-Learning / AI + Web3 -Tutorials
 
-Hi - Thanks for dropping by!<br>
+Hi, Thanks for dropping by!<br>
 <br>
 I will be updating this tutorials site on a <b>daily basis</b> adding all relevant topcis for 2022 - 2024 especially pertaining to **GPU programming, Data Centric AI, Emerging topics like Sustainable AI with Web3AI.js (DeFI, DAO, NFT) and much more**.<br>
 <br>
